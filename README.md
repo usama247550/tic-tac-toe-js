@@ -1,6 +1,6 @@
 ﻿# 🎮 JavaScript Tic Tac Toe
 
-A simple and fun **Tic Tac Toe game** built using **HTML, CSS, and Vanilla JavaScript**. The project focuses on clean UI, basic game logic, and sound effects to make the gameplay engaging.
+A simple and fun **Tic Tac Toe game** built using **HTML, CSS, and JavaScript**. The project focuses on clean UI, basic game logic, and sound effects to make the gameplay engaging.
 
 ---
 
@@ -19,7 +19,7 @@ A simple and fun **Tic Tac Toe game** built using **HTML, CSS, and Vanilla JavaS
 
 * **HTML5** – Structure
 * **CSS3** – Styling & layout
-* **JavaScript (Vanilla)** – Game logic
+* **JavaScript** – Game logic
 
 ---
 
@@ -44,7 +44,7 @@ JS tic-tac-toe/
 1. Download or clone the repository
 
    ```bash
-   git clone https://github.com/your-username/js-tic-tac-toe.git
+   git clone https://github.com/usama247550/tic-tac-toe-js.git
    ```
 2. Open the project folder
 3. Double-click **index.html** or open it in any modern browser
@@ -74,9 +74,14 @@ That’s it — enjoy the game! 🎉
 
 ## 📸 Screenshots
 
-*Add screenshots of the game here*
+<table>
+   <tr>
+      <td><img src="tic-tac-toe.png" width="400"/></td>
+   </tr>
+</table>
 
 ---
+
 
 
 
