@@ -43,11 +43,10 @@ JS tic-tac-toe/
 
 1. Download or clone the repository
 
-   ```bash
    git clone https://github.com/usama247550/tic-tac-toe-js.git
-   ```
-2. Open the project folder
-3. Double-click **index.html** or open it in any modern browser
+   
+3. Open the project folder
+4. Double-click **index.html** or open it in any modern browser
 
 That’s it — enjoy the game! 🎉
 
@@ -82,7 +81,16 @@ That’s it — enjoy the game! 🎉
 
 ---
 
+👨‍💻 **Author**  
 
+Usama
+MERN Stack Developer
 
+GitHub: https://github.com/usama247550
 
+LinkedIn: https://www.linkedin.com/in/usama-javed-112186320
+
+⭐ **Show Your Support**  
+
+If you like this project, give it a ⭐ on GitHub!
 
